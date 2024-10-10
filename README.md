@@ -23,15 +23,15 @@
 
 ### 🌱 Projetos Recentes:
 
-- **[Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados](#)**: Este projeto utiliza **ExtraTreesRegressor** para prever o preço de carros usados com base em suas características. Inclui pré-processamento de dados, tuning de hiperparâmetros e avaliação do modelo.  
+- **[Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados]((https://github.com/Ang3k/Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados))**: Este projeto utiliza **ExtraTreesRegressor** para prever o preço de carros usados com base em suas características. Inclui pré-processamento de dados, tuning de hiperparâmetros e avaliação do modelo.  
   *Tecnologias: Python, scikit-learn, pandas*  
   *Jupyter Notebook*
 
-- **[Web-Scraping-e-Analise-de-Dados-Imobiliarios-no-Rio-de-Janeiro-com-o-Quinto-Andar](#)**: Este projeto realiza a extração e análise de dados de imóveis na cidade do Rio de Janeiro a partir do site do Quinto Andar, utilizando as bibliotecas **Selenium**, **BeautifulSoup**, **Requests** e **Pandas**.  
+- **[Web-Scraping-e-Analise-de-Dados-Imobiliarios-no-Rio-de-Janeiro-com-o-Quinto-Andar]((https://github.com/Ang3k/Web-Scraping-e-Analise-de-Dados-Imobiliarios-no-Rio-de-Janeiro-com-o-Quinto-Andar))**: Este projeto realiza a extração e análise de dados de imóveis na cidade do Rio de Janeiro a partir do site do Quinto Andar, utilizando as bibliotecas **Selenium**, **BeautifulSoup**, **Requests** e **Pandas**.  
   *Tecnologias: Python, Selenium, BeautifulSoup, pandas*  
   *Jupyter Notebook*
 
-- **[Analise-SQL-da-Industria-Cinematografica-com-IMDb-e-TMDB](#)**: Análise avançada de dados SQL sobre a indústria cinematográfica usando **IMDb** e **TMDB**. Inclui classificações de atores, identificação de gêneros promissores e análise de lucros por empresas e regiões.  
+- **[Analise-SQL-da-Industria-Cinematografica-com-IMDb-e-TMDB]((https://github.com/Ang3k/Analise-SQL-da-Industria-Cinematografica-com-IMDb-e-TMDB))**: Análise avançada de dados SQL sobre a indústria cinematográfica usando **IMDb** e **TMDB**. Inclui classificações de atores, identificação de gêneros promissores e análise de lucros por empresas e regiões.  
   *Tecnologias: SQL, MySQL*  
   *Jupyter Notebook*
 
