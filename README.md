@@ -21,11 +21,6 @@
 
 ---
 
-### 📊 Estatísticas no GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelMansilla&show_icons=true&theme=dracula)
-
----
-
 ### 🌱 Projetos Recentes:
 
 - **[Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados](#)**: Este projeto utiliza **ExtraTreesRegressor** para prever o preço de carros usados com base em suas características. Inclui pré-processamento de dados, tuning de hiperparâmetros e avaliação do modelo.  
