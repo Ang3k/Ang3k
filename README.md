@@ -18,9 +18,6 @@
 - **Ferramentas de BI**: Power BI
 - **Versionamento**: Git, GitHub
 - **Bancos de Dados**: MySQL, PostgreSQL
-  
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ang3k&layout=compact&theme=dracula)
-
 
 ---
 
