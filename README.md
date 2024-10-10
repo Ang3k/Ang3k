@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Angel Mansilla!
 
-### 🎓 Aluno de Ciência da Computação | 📊 Entusiasta de Ciência de Dados | 🚀 Explorando Python e Análise de Dados
+### 🎓 Aluno de Ciência da Computação | 📊 Entusiasta de Ciência de Dados
 
 ---
 
