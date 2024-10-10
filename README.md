@@ -18,6 +18,9 @@
 - **Ferramentas de BI**: Power BI
 - **Versionamento**: Git, GitHub
 - **Bancos de Dados**: MySQL, PostgreSQL
+  
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMansilla&layout=compact&theme=dracula)
+
 
 ---
 
@@ -37,11 +40,6 @@
 
 ---
 
-### 🌐 Meu Portfólio:
+### 🌐 Conexões:
 - [Portfólio](https://angejesufern.wixsite.com/angel-mansilla)
-
----
-
-### 🤝 Vamos conectar?
-
 - [LinkedIn](https://www.linkedin.com/in/angel-mansilla-895001268/)
