@@ -38,5 +38,6 @@
 ---
 
 ### 🌐 Conexões:
-- [Portfólio](https://angejesufern.wixsite.com/angel-mansilla)
-- [LinkedIn](https://www.linkedin.com/in/angel-mansilla-895001268/)
+
+- [🌍 Portfólio](https://angejesufern.wixsite.com/angel-mansilla)
+- [💼 LinkedIn](https://www.linkedin.com/in/angel-mansilla-895001268/)
