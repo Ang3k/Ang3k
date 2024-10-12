@@ -14,7 +14,7 @@
 ### 🛠️ Tecnologias e Ferramentas:
 
 - **Linguagens**: Python, SQL, Java e C
-- **Bibliotecas**: pandas, numpy, scikit-learn
+- **Bibliotecas**: pandas, numpy, scikit-learn, matplotlib
 - **Ferramentas de BI**: Power BI
 - **Versionamento**: Git, GitHub
 - **Bancos de Dados**: MySQL, PostgreSQL
