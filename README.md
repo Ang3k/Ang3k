@@ -23,6 +23,10 @@
 
 ### 🌱 Projetos Recentes:
 
+- **[Analise-de-Churn-de-Clientes-Bancarios-com-Visualizacao-e-Machine-Learning](https://github.com/Ang3k/Exploracao-Preditiva-de-Dados-para-Churn-de-Clientes-Bancarios-com-Machine-Learning)**: Este projeto realiza uma análise detalhada do churn de clientes bancários, utilizando visualizações gráficas, estatísticas descritivas e técnicas de Machine Learning para prever a probabilidade de churn dos clientes.  
+  *Tecnologias: Python, pandas, scikit-learn, seaborn, matplotlib*  
+  *Jupyter Notebook*
+
 - **[Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados](https://github.com/Ang3k/Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados)**: Este projeto utiliza **ExtraTreesRegressor** para prever o preço de carros usados com base em suas características. Inclui pré-processamento de dados, tuning de hiperparâmetros e avaliação do modelo.  
   *Tecnologias: Python, scikit-learn, pandas*  
   *Jupyter Notebook*
