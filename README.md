@@ -11,7 +11,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas:
 - **Linguagens**: Python, C, SQL, Java
-- **ML & AI**: scikit-learn, LightGBM, XGBoost, redes neurais tabulares, TF-IDF, K-Means
+- **ML & AI**: scikit-learn, pytorch, LightGBM, XGBoost, redes neurais tabulares, TF-IDF, K-Means
 - **Engenharia de Features**: lag features, rolling statistics, embeddings categóricos, PCA
 - **Deploy & Visualização**: Streamlit, matplotlib, seaborn
 - **Versionamento**: Git, GitHub
