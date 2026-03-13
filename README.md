@@ -1,48 +1,44 @@
 # 👋 Olá, eu sou Angel Mansilla!
-
-### 🎓 Aluno de Ciência da Computação | 📊 Entusiasta de Ciência de Dados
-
+### 🎓 Ciência da Computação — UFRJ | 🤖 Machine Learning Engineer
 ---
-
 - 🎓 Estudante de Ciência da Computação na UFRJ
-- 📚 Estudando **Ciência de Dados** de forma autodidata, com foco em Python, SQL e Power BI
-- 🧠 Atualmente aprendendo e praticando com as bibliotecas **pandas**, **numpy** e **scikit-learn** para análise e modelagem de dados
-- 🔍 Interesse em explorar machine learning e visualização de dados
+- 💼 Estagiário de **Machine Learning Engineering**
+- 🧠 Foco em **modelos ensemble, detecção de anomalias e NLP**
+- ⚙️ Experiência com pipelines de ML em dados reais de larga escala
+- 🔍 Interesse em aprendizado supervisionado, não-supervisionado e sistemas inteligentes em produção
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
-
-- **Linguagens**: Python, SQL, Java e C
-- **Bibliotecas**: pandas, numpy, scikit-learn, matplotlib
-- **Ferramentas de BI**: Power BI
+- **Linguagens**: Python, C, SQL, Java
+- **ML & AI**: scikit-learn, LightGBM, XGBoost, redes neurais tabulares, TF-IDF, K-Means
+- **Engenharia de Features**: lag features, rolling statistics, embeddings categóricos, PCA
+- **Deploy & Visualização**: Streamlit, matplotlib, seaborn
 - **Versionamento**: Git, GitHub
 - **Bancos de Dados**: MySQL, PostgreSQL
 
 ---
 
-### 🌱 Projetos Recentes:
+### 🚀 Projetos de Machine Learning:
 
-- **[Analise-de-Churn-de-Clientes-Bancarios-com-Visualizacao-e-Machine-Learning](https://github.com/Ang3k/Exploracao-Preditiva-de-Dados-para-Churn-de-Clientes-Bancarios-com-Machine-Learning)**: Este projeto realiza uma análise detalhada do churn de clientes bancários, utilizando visualizações gráficas, estatísticas descritivas e técnicas de Machine Learning para prever a probabilidade de churn dos clientes.  
-  *Tecnologias: Python, pandas, scikit-learn, seaborn, matplotlib*  
-  *Jupyter Notebook*
+- **[🦟 Arbovirus Ensemble MLP Classifier](https://github.com/Ang3k/Arbovirus-Ensemble-MLP-Classifier)**
+  Ensemble ponderado de **LightGBM, XGBoost e rede neural tabular** com embeddings categóricos, treinado em ~480k notificações nacionais (2017–2019). Atingiu até **98% de recall** na classificação de arboviroses sem uso de exames laboratoriais.
+  `Python` `LightGBM` `XGBoost` `Redes Neurais` `Embeddings Categóricos`
 
-- **[Analise-SQL-da-Industria-Cinematografica-com-IMDb-e-TMDB](https://github.com/Ang3k/Analise-SQL-da-Industria-Cinematografica-com-IMDb-e-TMDB)**: Análise avançada de dados SQL sobre a indústria cinematográfica usando **IMDb** e **TMDB**. Inclui classificações de atores, identificação de gêneros promissores e análise de lucros por empresas e regiões.  
-  *Tecnologias: SQL, MySQL, Power BI*  
-  *MySQL Workbench*
+- **[🌡️ CPU Temperature Anomaly Detector](https://github.com/Ang3k/CPU-Temperature-Anomaly-Detector)**
+  Coleta dados de sensores em tempo real via LibreHardwareMonitor, aplica **engenharia de features** (lag, rolling statistics) e detecta anomalias térmicas com modelos de regressão (Linear, XGBoost, LightGBM).
+  `Python` `XGBoost` `LightGBM` `Feature Engineering` `Tempo Real`
 
-- **[Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados](https://github.com/Ang3k/Modelo-de-Regressao-em-Arvores-para-Previsao-de-Carros-Usados)**: Este projeto utiliza **ExtraTreesRegressor** para prever o preço de carros usados com base em suas características. Inclui pré-processamento de dados, tuning de hiperparâmetros e avaliação do modelo.  
-  *Tecnologias: Python, scikit-learn, pandas*  
-  *Jupyter Notebook*
+- **[📝 Clusterizador de Texto — Streamlit](https://github.com/Ang3k/Algoritmo-Clusterizador-de-Texto-Streamlit)**
+  App web para clustering de posts do Reddit com visualização interativa. Pipeline completo: **TF-IDF → PCA → K-Means**, com interface construída em Streamlit.
+  `Python` `NLP` `TF-IDF` `K-Means` `PCA` `Streamlit`
 
-- **[Web-Scraping-e-Analise-de-Dados-Imobiliarios-no-Rio-de-Janeiro-com-o-Quinto-Andar](https://github.com/Ang3k/Web-Scraping-e-Analise-de-Dados-Imobiliarios-no-Rio-de-Janeiro-com-o-Quinto-Andar)**: Este projeto realiza a extração e análise de dados de imóveis na cidade do Rio de Janeiro a partir do site do Quinto Andar, utilizando as bibliotecas **Selenium**, **BeautifulSoup**, **Requests** e **Pandas**.  
-  *Tecnologias: Python, MySQL, SQL, Selenium, BeautifulSoup, Power BI*  
-  *Jupyter Notebook*
+- **[🏦 Churn de Clientes Bancários](https://github.com/Ang3k/Exploracao-Preditiva-de-Dados-para-Churn-de-Clientes-Bancarios-com-Machine-Learning)**
+  Análise preditiva de churn com modelos de classificação, visualizações e estatísticas descritivas.
+  `Python` `scikit-learn` `pandas` `seaborn`
 
 ---
 
 ### 🌐 Conexões:
-
 - [🌍 Portfólio](https://angejesufern.wixsite.com/angel-mansilla)
 - [💼 LinkedIn](https://www.linkedin.com/in/angel-mansilla-895001268/)
-
