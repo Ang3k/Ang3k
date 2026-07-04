@@ -21,7 +21,7 @@
 
 ### 🚀 Projetos de Machine Learning:
 
-- **[🦟 Arbovirus Ensemble MLP Classifier](https://github.com/Ang3k/Arbovirus-Ensemble-MLP-Classifier)**
+- **[🦟 Arbovirus Ensemble MLP Classifier](https://github.com/Ang3k/Dengue-Ensembler-Classifier)**
   Ensemble ponderado de **LightGBM, XGBoost e rede neural tabular** com embeddings categóricos, treinado em ~480k notificações nacionais (2017–2019). Atingiu até **98% de recall** na classificação de arboviroses sem uso de exames laboratoriais.
   `Python` `LightGBM` `XGBoost` `Redes Neurais` `Embeddings Categóricos`
 
