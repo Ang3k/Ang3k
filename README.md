@@ -2,9 +2,9 @@
 
 # Angel Mansilla
 
-**Machine Learning Engineer** · Ciência da Computação na UFRJ · Rio de Janeiro
+**Cientista de Dados** · Ciência da Computação na UFRJ · Rio de Janeiro
 
-Levo modelos de Machine Learning do dado bruto até a produção: pipeline de dados, modelagem, avaliação rigorosa e a API que entrega o resultado.
+Transformo dados reais em modelos que apoiam decisões: da análise exploratória à modelagem, avaliação rigorosa e entrega em produção.
 
 </div>
 
