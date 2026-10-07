@@ -25,9 +25,9 @@ Levo modelos de Machine Learning do dado bruto até a produção: pipeline de da
 
 ### Como eu trabalho
 
-- **Avaliação orientada ao problema:** a estratégia de validação e as métricas partem do cenário de uso e do custo de cada tipo de erro, não do que fica melhor no relatório.
-- **Reprodutibilidade:** dados, código e modelos versionados e experimentos rastreados, para que qualquer resultado possa ser refeito e auditado.
-- **Foco em produção:** o trabalho só termina quando o modelo chega a quem vai usá-lo, com API, interface e documentação.
+- **Avaliação orientada ao problema:** métricas e validação definidas pelo uso real e pelo custo do erro.
+- **Reprodutibilidade:** dados, código e modelos versionados, com experimentos rastreados e auditáveis.
+- **Foco em produção:** o modelo só está pronto quando chega a quem vai usá-lo, via API e interface.
 
 ---
 
