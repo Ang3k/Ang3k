@@ -25,9 +25,9 @@ Levo modelos de Machine Learning do dado bruto até a produção: pipeline de da
 
 ### Como eu trabalho
 
-- **Validação que imita o mundo real:** separo treino, validação e teste no tempo e procuro vazamento de dados antes de confiar em qualquer métrica.
-- **Reprodutibilidade:** pipelines versionados, artefatos validados por esquema e hash, experimentos rastreados.
-- **Entrega:** um modelo só gera valor quando alguém usa. API, interface e documentação fazem parte do projeto.
+- **Avaliação orientada ao problema:** a estratégia de validação e as métricas partem do cenário de uso e do custo de cada tipo de erro, não do que fica melhor no relatório.
+- **Reprodutibilidade:** dados, código e modelos versionados e experimentos rastreados, para que qualquer resultado possa ser refeito e auditado.
+- **Foco em produção:** o trabalho só termina quando o modelo chega a quem vai usá-lo, com API, interface e documentação.
 
 ---
 
